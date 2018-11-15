@@ -3,12 +3,7 @@ sudo: false
 
 install: true
 script: "
-if [ ${TRAVIS_PULL_REQUEST} = 'false' ];
-then 
-    mvn clean deploy --batch-mode --settings etc/settings.xml;
-else 
-    mvn clean verify --batch-mode --settings etc/settings.xml;
-fi"
+mvn clean verify --batch-mode --settings etc/settings.xml;
 
 jdk:
   - oraclejdk8
