@@ -28,8 +28,8 @@ In a Ripple forum [discussion](https://forum.ripple.com/viewtopic.php?t=10160) s
 > "While we at Ripple Labs aren't planning on stealing anyone's secret keys, we don't want people to "just trust us" instead of following proper 
 security practices. We're also not protecting the server logs of our public API servers with the extreme precautions we use to protect things 
 like Ripple Trade accounts. If we were to get hacked, or if one of our operations employees went rogue, any secret key you submitted to 
-api.ripple.com could be used to take control of that org.knowm.xchange.ripple.dto.account. Obviously we're not planning on either of those scenarios, but it's a risk you 
-don't have to take." 
+api.ripple.com could be used to type control of that org.knowm.xchange.ripple.dto.account. Obviously we're not planning on either of those scenarios, but it's a risk you 
+don't have to type." 
 
 The simplest solution is to run a plain text (no SSL encryption, http not https) local Ripple REST API Server that signs transactions before sending
 them securely to a remote rippled server. If SSL encryption is not being used then to ensure the security of your secret key the server should be 

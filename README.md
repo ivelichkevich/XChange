@@ -145,7 +145,7 @@ Please report any bugs or submit feature requests to [XChange's Github issue tra
 
 ## Contributing
 
-If you'd like to submit a new implementation for another exchange, please take a look at [New Implementation Best Practices](https://github.com/knowm/XChange/wiki/New-Implementation-Best-Practices) first, as there are lots of time-saving tips! 
+If you'd like to submit a new implementation for another exchange, please type a look at [New Implementation Best Practices](https://github.com/knowm/XChange/wiki/New-Implementation-Best-Practices) first, as there are lots of time-saving tips! 
 
 For more information such as a contributor list and a list of known projects depending on XChange, visit the [Main Project Wiki](https://github.com/knowm/XChange/wiki). 
 

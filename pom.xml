@@ -133,6 +133,7 @@
 		<module>xchange-coinbasepro</module>
 		<module>xchange-coindirect</module>
 		<module>xchange-coinbene</module>
+                <module>xchange-coinsbank</module>
 		<module>xchange-coinegg</module>
 		<module>xchange-coinone</module>
 		<module>xchange-coinfloor</module>
